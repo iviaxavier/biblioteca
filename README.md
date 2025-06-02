@@ -29,6 +29,6 @@ O sistema simula um gerenciamento básico de uma biblioteca, permitindo o cadast
 - Programação Orientada a Objetos (POO)
 
 
-## 👤 Autor
+##  Autor
 
 Projeto desenvolvido por **Ívia Xavier Bezerra**
